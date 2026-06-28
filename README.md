@@ -1,11 +1,6 @@
-
-
-````markdown
 # Hi, I'm Rudraksh Thakare 👋
 
-MCA Student | Flutter & Full-Stack Developer | DSA Learner
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Rudraksh+%F0%9F%91%8B;MCA+Student+%7C+Software+Developer;Flutter+%7C+Full-Stack+Development+%7C+DSA;Building+practical+projects+and+learning+daily+%F0%9F%9A%80)](https://git.io/typing-svg)
+**MCA Student | Flutter & Full-Stack Developer | DSA Learner**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rudraksh-thakare.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudrakshthakare)
@@ -46,13 +41,13 @@ const rudraksh = {
   goal: "Build practical software projects and grow as a software developer",
   mindset: "Learn by building, improving, and solving real-world problems"
 };
-````
+```
 
-* 🎓 MCA student interested in software development and practical project building
-* 📱 Exploring **Flutter** and **Dart** for mobile app development
-* 💻 Building web applications using **JavaScript, React, Node.js, PHP, and databases**
-* 🧩 Practicing **DSA basics** and problem-solving on LeetCode
-* 🛠️ Focused on improving through real-world projects, clean code, and continuous learning
+- 🎓 MCA student interested in software development and practical project building
+- 📱 Exploring **Flutter** and **Dart** for mobile app development
+- 💻 Building web applications using **JavaScript, React, Node.js, PHP, and databases**
+- 🧩 Practicing **DSA basics** and problem-solving on LeetCode
+- 🛠️ Focused on improving through real-world projects, clean code, and continuous learning
 
 ---
 
@@ -60,96 +55,83 @@ const rudraksh = {
 
 ### Mobile Development
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools and Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project                                                                                  | Description                                                                                             | Tech                                          |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| 🅿️ **[Parking Android](https://github.com/Rudraksh-Thakare/parking-android)**           | Flutter parking app with booking flow, Provider state management, local storage, and Material Design UI | Flutter · Dart · Provider · SharedPreferences |
-| 🌤️ **[Weather Android](https://github.com/Rudraksh-Thakare/weather-android)**           | Real-time city weather app with API integration, dark mode, Celsius/Fahrenheit toggle, and dynamic UI   | Flutter · Dart · REST API · JSON              |
-| 🏥 **[Hospital Finder](https://github.com/Rudraksh-Thakare/Hospital-Finder)**            | Location-based healthcare web app to help users find hospital-related services                          | React · Node.js · PostgreSQL                  |
-| 🌦️ **[Smart Weather System](https://github.com/Rudraksh-Thakare/smart-weather-system)** | Weather advisory system with AQI, maps, alerts, farmer mode, and weather data                           | PHP · JavaScript · PostgreSQL                 |
-| 🩸 **[Blood-Link](https://github.com/Rudraksh-Thakare/Blood-Link-)**                     | Blood donation management system to connect donors with people in need                                  | React · Firebase · Vite                       |
-| ✅ **[Django Todo App](https://github.com/Rudraksh-Thakare/django-todo-app)**             | Todo application created to practice backend development concepts using Django                          | Python · Django                               |
-
----
-
-## 📊 GitHub Stats
-
-![Rudraksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudraksh-Thakare\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&count_private=true\&hide_border=true\&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudraksh-Thakare\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0d1117)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Rudraksh-Thakare\&theme=tokyonight\&hide_border=true\&background=0d1117)
+| Project | Description | Tech |
+|---|---|---|
+| 🅿️ **[Parking Android](https://github.com/Rudraksh-Thakare/parking-android)** | Flutter parking app with booking flow, Provider state management, local storage, and Material Design UI | Flutter · Dart · Provider · SharedPreferences |
+| 🌤️ **[Weather Android](https://github.com/Rudraksh-Thakare/weather-android)** | Real-time city weather app with API integration, dark mode, Celsius/Fahrenheit toggle, and dynamic UI | Flutter · Dart · REST API · JSON |
+| 🏥 **[Hospital Finder](https://github.com/Rudraksh-Thakare/Hospital-Finder)** | Location-based healthcare web app to help users find hospital-related services | React · Node.js · PostgreSQL |
+| 🌦️ **[Smart Weather System](https://github.com/Rudraksh-Thakare/smart-weather-system)** | Weather advisory system with AQI, maps, alerts, farmer mode, and weather data | PHP · JavaScript · PostgreSQL |
+| 🩸 **[Blood-Link](https://github.com/Rudraksh-Thakare/Blood-Link-)** | Blood donation management system to connect donors with people in need | React · Firebase · Vite |
+| ✅ **[Django Todo App](https://github.com/Rudraksh-Thakare/django-todo-app)** | Todo application created to practice backend development concepts using Django | Python · Django |
 
 ---
 
 ## 🧩 DSA Progress
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/rudraksh_thakare?theme=dark\&font=Fira%20Code\&ext=heatmap)](https://leetcode.com/rudraksh_thakare)
+[![LeetCode](https://img.shields.io/badge/LeetCode-rudraksh__thakare-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rudraksh_thakare)
 
 > 🎯 **Current Goal:** Build consistency with beginner-friendly coding problems, then move to intermediate DSA topics.
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Stats
 
-[![Rudraksh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rudraksh-Thakare\&theme=tokyo-night\&hide_border=true\&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Rudraksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudraksh-Thakare&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudraksh-Thakare&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 💬 Random Dev Quote
+## 💬 Developer Mindset
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+> Learn by building. Improve by debugging. Grow by solving real problems.
 
 ---
 
 **⭐ Thanks for visiting my GitHub profile!**
-
-```
-
-Also remove the old header/footer `capsule-render` images for now. They are the most common reason for this XML error.
-```
