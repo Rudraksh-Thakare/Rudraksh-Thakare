@@ -1,8 +1,4 @@
-Used tool: ask_permission
 
-Here's the full README — just **select all, copy, and paste** into GitHub! 👇
-
----
 
 ```markdown
 <div align="center">
