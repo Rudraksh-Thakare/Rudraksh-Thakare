@@ -3,7 +3,7 @@
 ````markdown
 # Hi, I'm Rudraksh Thakare 👋
 
-**MCA Student | Flutter & Full-Stack Developer | DSA Learner**
+MCA Student | Flutter & Full-Stack Developer | DSA Learner
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Rudraksh+%F0%9F%91%8B;MCA+Student+%7C+Software+Developer;Flutter+%7C+Full-Stack+Development+%7C+DSA;Building+practical+projects+and+learning+daily+%F0%9F%9A%80)](https://git.io/typing-svg)
 
