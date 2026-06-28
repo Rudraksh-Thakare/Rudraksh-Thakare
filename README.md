@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rudraksh%20Thakare&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MCA%20Student%20%7C%20Flutter%20%26%20Full-Stack%20Developer%20%7C%20DSA%20Learner&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Rudraksh%20Thakare&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=MCA%20Student%20%7C%20Flutter%20%26%20Full-Stack%20Developer%20%7C%20DSA%20Learner&amp;descAlignY=55&amp;descSize=16"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=6AD3F7\&center=true\&vCenter=true\&random=false\&width=700\&lines=Hey+there!+I'm+Rudraksh+%F0%9F%91%8B;MCA+Student+%7C+Software+Developer;Flutter+%7C+Full-Stack+Development+%7C+DSA;Building+practical+projects+and+learning+daily+%F0%9F%9A%80)](https://git.io/typing-svg)
 
