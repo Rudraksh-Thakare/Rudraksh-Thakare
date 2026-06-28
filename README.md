@@ -1,18 +1,16 @@
 
-
-```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rudraksh%20Thakare&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MCA%20Student%20%7C%20Full-Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rudraksh%20Thakare&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MCA%20Student%20%7C%20Flutter%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=55&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Rudraksh+%F0%9F%91%8B;MCA+Student+%40+Full-Stack+Dev;MERN+Stack+%7C+DSA+%7C+Problem+Solver;Building+cool+projects+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=6AD3F7\&center=true\&vCenter=true\&random=false\&width=600\&lines=Hey+there!+I'm+Rudraksh+%F0%9F%91%8B;MCA+Student+%40+Flutter+Development;Flutter+%7C+Dart+%7C+Mobile+Apps;Building+practical+apps+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rudraksh-thakare.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudrakshthakare)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rudraksh-Thakare)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Rudraksh-Thakare)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=todoist\&logoColor=white)](https://rudraksh-thakare.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rudrakshthakare)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Rudraksh-Thakare)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/Rudraksh-Thakare)
 
 <img src="https://komarev.com/ghpvc/?username=Rudraksh-Thakare&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 
@@ -24,19 +22,20 @@
 
 ```javascript
 const rudraksh = {
-  degree      : "MCA (Master of Computer Applications)",
-  focus       : ["Full-Stack Development", "DSA", "Problem Solving"],
-  currentlyLearning : ["MERN Stack", "Data Structures & Algorithms", "SQL"],
-  goals       : "Build impactful projects & crack product-based companies",
-  funFact     : "I debug with console.log and I'm not ashamed 😄"
+  degree: "MCA (Master of Computer Applications)",
+  focus: ["Flutter Development", "Mobile App Development", "Problem Solving"],
+  skills: ["Flutter", "Dart", "REST APIs", "Provider", "SharedPreferences"],
+  currentlyPracticing: ["Flutter UI", "State Management", "API Integration", "DSA Basics"],
+  goal: "Grow as a Flutter/Mobile App Developer and build practical mobile applications",
+  funFact: "I enjoy turning ideas into working mobile apps 🚀"
 };
 ```
 
-- 🎓 MCA student passionate about full-stack development
-- 💻 Building projects with the **MERN Stack**
-- 🧩 Solving **LeetCode** problems daily to sharpen DSA skills
-- 🛠️ Always learning — turning concepts into real working apps
-- 📫 Reach me at **LinkedIn** or check out my **Portfolio**
+* 🎓 MCA student interested in Flutter and mobile app development
+* 📱 Building mobile apps using **Flutter** and **Dart**
+* 🔗 Practicing REST API integration, local storage, and clean UI design
+* 🧩 Improving problem-solving and DSA basics
+* 🛠️ Focused on building practical projects and learning through implementation
 
 ---
 
