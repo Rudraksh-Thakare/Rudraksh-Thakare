@@ -116,7 +116,7 @@ const rudraksh = {
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Rudraksh-Thakare?theme=dark\&font=Fira%20Code\&ext=heatmap)](https://leetcode.com/Rudraksh-Thakare)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rudraksh_Thakare?theme=dark\&font=Fira%20Code\&ext=heatmap)](https://leetcode.com/Rudraksh_Thakare)
 
 </div>
 
