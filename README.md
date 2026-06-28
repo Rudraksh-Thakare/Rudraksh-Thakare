@@ -151,7 +151,4 @@ const rudraksh = {
 **⭐ If you like my work, consider starring my repos!**
 
 </div>
-```
-
----
 
